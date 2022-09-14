@@ -1,23 +1,25 @@
 {
-  "name": "github-usercard",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "parcel index.html"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LambdaSchool/github-usercard.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/LambdaSchool/github-usercard/issues"
-  },
-  "homepage": "https://github.com/LambdaSchool/github-usercard#readme",
-  "devDependencies": {
-    "eslint": "^7.3.0",
-    "parcel-bundler": "^1.12.4"
-  },
-  "dependencies": {}
+    "name": "github-usercard",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "parcel index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BloomInstituteOfTechnology/github-usercard.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/BloomInstituteOfTechnology/github-usercard/issues"
+    },
+    "homepage": "https://github.com/BloomInstituteOfTechnology/github-usercard#readme",
+    "devDependencies": {
+        "eslint": "^8.10.0",
+        "parcel-bundler": "^1.3.1"
+    },
+    "dependencies": {
+        "axios": "^0.27.2"
+    }
 }
