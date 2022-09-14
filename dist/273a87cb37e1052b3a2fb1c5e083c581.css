@@ -101,6 +101,12 @@ body {
   margin-bottom: 30px;
 }
 
+.card a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.3rem;
+}
+
 .card img {
   width: 150px;
   height: 150px;
@@ -109,12 +115,14 @@ body {
 }
 
 .card .name {
-  font-size: 3.4rem;
+  font-size: 3.4rem; 
 }
+
 
 .card p {
   font-size: 1.4rem;
   margin-bottom: 3px;
+  
 }
 
 .card .username {
